@@ -28,6 +28,7 @@ Back end is made from NodeJS, ExpressJS, MongoDB
 Cloudinary service: to store images on the cloud.
 
 Results:
+<br>
 <img width="437" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/2ba8b410-2955-4ee0-8d15-896ffff070a2">
 <br>
 <img width="432" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/15efe4e9-d769-4ea1-9fc1-8d70be98dcc6">
