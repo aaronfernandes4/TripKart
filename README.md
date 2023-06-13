@@ -46,7 +46,8 @@ Results:
 <br>
 
 
-Future Work
+Future Work:
+<br>
 We can implement a live tracker for the user to find out what utilities are near their location.We
 can also add a chat section for avid travelers so that they can share their interests intraveling and
 connect. We can integrate a payment gateway with the website. We can also add tours with
