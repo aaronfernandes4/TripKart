@@ -27,6 +27,16 @@ Our front end is made from HTML, CSS, JS, ReactJS, Material UI
 Back end is made from NodeJS, ExpressJS, MongoDB
 Cloudinary service: to store images on the cloud.
 
+Results:
+<img width="437" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/2ba8b410-2955-4ee0-8d15-896ffff070a2">
+<img width="432" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/15efe4e9-d769-4ea1-9fc1-8d70be98dcc6">
+<img width="442" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/807b8dd4-c300-40bf-9526-fbdb4ae91a7b">
+<img width="246" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/2d4e9878-62f0-4378-a379-5acc8e0b8b8e">
+<img width="247" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/70ad5a5e-a999-459b-9cf5-e52b715f8fc8">
+<img width="249" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/1fd156a3-d517-4358-8534-3c4a5b88dc8d">
+<img width="230" alt="image" src="https://github.com/aaronfernandes4/TripKart/assets/86305002/6fcd5ca2-0ed4-4ccb-bbc4-d966a2a8848e">
+
+
 Future Work
 We can implement a live tracker for the user to find out what utilities are near their location.We
 can also add a chat section for avid travelers so that they can share their interests intraveling and
